@@ -1,0 +1,36 @@
+.jumbotron {
+	border: 5px solid lightgrey;
+	width: 750px;
+	height: 650px;
+	
+	
+	
+	
+}
+img {
+	width: 650px;
+}
+div h1 {
+	font-size: 25px;
+	font-family: Tahoma;
+
+}
+.container {
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.a {
+	border: 5px solid lightgrey;
+	background-color: rgba(0, 100, 105, 0.5);
+}
+span {
+	font-size: 150%;
+	font-family: tahoma;
+	font-style: italic;
+	font-weight: bold;
+}
+p {
+	line-height: 28px;
+	font-size: 20px;
+	font-family: tahoma;
+}

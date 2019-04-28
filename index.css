@@ -1,0 +1,24 @@
+#welcom {
+	display: flex;
+	justify-content: center;
+}
+
+#button {
+	/*justify-content: center;*/
+	/*display: inline-block;*/
+	
+	text-align: center;
+
+}
+.btn-primary:hover {
+	background-color: pink;
+
+}
+
+.btn-primary{
+	margin: 10px 15px;
+	cursor: pointer;
+	text-align: center;
+	background-color: pink;
+	width: 130px;
+}
